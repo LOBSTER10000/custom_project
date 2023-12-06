@@ -1,7 +1,7 @@
 # compiled output
 /dist
 /node_modules
-
+전국주차장정보표준데이터.json
 # Logs
 logs
 *.log
